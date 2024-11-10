@@ -35,14 +35,14 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gabrielCoelho99/gabrielCoelho99/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="left">Opa galera! Eu sou o Gabriel 🙃</h1>
 
 ###
 
 <p align="left">- 🔭 No momento ainda não trabalho com desenvolvimento, apenas estudo back-end e produzo alguns projetos pessoais...<br>- 🌱 Atualmente estou estudando Java e API's...</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/gabrielCoelho99/gabrielCoelho99/output/snake.svg" alt="Snake animation" />
 
 ###
