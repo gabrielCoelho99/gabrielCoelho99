@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FDB813&center=true&vCenter=true&random=false&width=600&lines=Opa+galera!+Eu+sou+o+Gabriel+%F0%9F%99%83;Back-end+Developer+em+forma%C3%A7%C3%A3o;Apaixonado+por+Java+%E2%98%95+e+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FDB813&center=true&vCenter=true&random=false&width=600&lines=Opa+galera!+Eu+sou+o+Gabriel+%F0%9F%99%83;Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Estudando+Java+%E2%98%95+%7C+APIs+%7C+Spring+Boot" alt="Typing SVG" />
 
 </div>
 
@@ -11,9 +11,9 @@
 ```yaml
 nome: Gabriel Moraes
 localização: Brasil 🇧🇷
-foco_atual: Back-end Development
+status: Desenvolvedor Back-end em formação
 estudando: Java • Spring Boot • APIs REST
-objetivo: Construir aplicações robustas e escaláveis
+objetivo: Evoluir como dev e construir projetos reais
 ```
 
 - 🔭 Focado em estudos de **back-end** e projetos pessoais
