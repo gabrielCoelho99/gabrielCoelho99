@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FDB813&center=true&vCenter=true&random=false&width=600&lines=Opa+galera!+Eu+sou+o+Gabriel+%F0%9F%99%83;Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Estudando+Java+%E2%98%95+%7C+APIs+%7C+Spring+Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=FDB813&center=true&vCenter=true&random=false&width=600&lines=Opa+galera!+Eu+sou+o+Gabriel+%F0%9F%99%83;Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Estudando+Java+%E2%98%95+%7C+APIs+%7C+Spring+Boot" alt="Typing SVG" />
 
 </div>
 
@@ -53,16 +53,24 @@ objetivo: Evoluir como dev e construir projetos reais
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielCoelho99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-dark&locale=pt-br&hide_border=true&order=1" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielCoelho99&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=solarized-dark&hide_border=true&order=2" height="160" alt="languages graph" />
+  <a href="https://github.com/gabrielCoelho99">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielCoelho99&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-dark&locale=pt-br&hide_border=true" height="160" alt="stats graph" />
+  </a>
+  <a href="https://github.com/gabrielCoelho99">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielCoelho99&locale=pt-br&layout=compact&card_width=320&langs_count=6&theme=solarized-dark&hide_border=true" height="160" alt="languages graph" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gabrielCoelho99&locale=pt_BR&mode=daily&theme=solarized-dark&hide_border=true&border_radius=8&order=3" height="160" alt="streak graph" />
+  <a href="https://github.com/gabrielCoelho99">
+    <img src="https://streak-stats.demolab.com/?user=gabrielCoelho99&locale=pt_BR&mode=daily&theme=solarized-dark&hide_border=true&border_radius=8" height="160" alt="streak graph" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=gabrielCoelho99&theme=darkhub&column=6&row=1&margin-w=10&margin-h=10&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
+  <a href="https://github.com/gabrielCoelho99">
+    <img src="https://github-profile-trophy.vercel.app/?username=gabrielCoelho99&theme=darkhub&column=6&row=1&margin-w=10&margin-h=10&no-bg=true&no-frame=true" height="150" alt="trophy graph" />
+  </a>
 </div>
 
 ---
